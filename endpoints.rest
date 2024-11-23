@@ -1,7 +1,7 @@
 
 ### Variables
-@url = http://localhost:3010/
-@apiUrl = http://localhost:3010/api/v1/
+@url = http://localhost:3015/
+@apiUrl = http://localhost:3015/api/v1/
 
 
 ### Webpage Endpoint
